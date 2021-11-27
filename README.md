@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about cloud technology and CI/CD
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to swim at beach and play guitar
 
 ### Connect with me:
@@ -40,6 +40,6 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
+[website]: https://rodriguezsantiago.me/
 [youtube]: https://www.youtube.com/channel/UCIYgaRHVGi9juX7pr4TWkmA
 [linkedin]: https://www.linkedin.com/in/santiago-miguel-rodriguez-noh-1217231b5/
