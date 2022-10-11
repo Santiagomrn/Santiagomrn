@@ -1,7 +1,5 @@
 ### Hi there, I'm Santiago - [santiagomrn][website] 👋 
 
-[![Website](https://img.shields.io/website?label=rodriguezsantiago.me&style=for-the-badge&url=https://rodriguezsantiago.me/)](https://rodriguezsantiago.me/)
-
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning about cloud technology and CI/CD
