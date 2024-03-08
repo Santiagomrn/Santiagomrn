@@ -33,6 +33,6 @@
 <br />
 <br />
 
-[website]: https://https://santiagomrn.github.io/
+[website]: https://santiagomrn.github.io/
 [youtube]: https://www.youtube.com/channel/UCIYgaRHVGi9juX7pr4TWkmA
 [linkedin]: https://www.linkedin.com/in/santiago-miguel-rodriguez-noh-1217231b5/
