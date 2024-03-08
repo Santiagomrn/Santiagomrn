@@ -2,8 +2,7 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning about cloud technologies
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to swim at beach and play guitar
 
 ### Connect with me:
